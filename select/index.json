@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Miracle",
+  "base_artist": "illion",
+  "createdAt": "2026-02-21T09:08:15.979449Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Miracle (Hansa Session)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/01_Miracle_(Hansa_Session)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "She's A Miracle",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/02_She's_A_Miracle_Exile.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "She's A Miracle (Album Version)",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/03_She's_A_Miracle_(Album_Version)_Exile.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Your Love Is a Miracle",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/04_Your_Love_Is_a_Miracle_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Your Love Is A Miracle (Album Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/05_Your_Love_Is_A_Miracle_(Album_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Miracle Goodnight",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Miracle_Goodnight_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Waiting for the Miracle",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/07_Waiting_for_the_Miracle_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Miracle",
+      "artist": "Madeon",
+      "has_synced": true,
+      "path": "select/08_Miracle_Madeon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "In Need of a Miracle",
+      "artist": "New Radicals",
+      "has_synced": true,
+      "path": "select/09_In_Need_of_a_Miracle_New_Radicals.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Miracle",
+      "artist": "Olive",
+      "has_synced": true,
+      "path": "select/10_Miracle_Olive.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Miracle (Monkey Mafia remix)",
+      "artist": "Olive",
+      "has_synced": false,
+      "path": "select/11_Miracle_(Monkey_Mafia_remix)_Olive.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Waiting On A Miracle",
+      "artist": "Mystery Jets",
+      "has_synced": true,
+      "path": "select/12_Waiting_On_A_Miracle_Mystery_Jets.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Some Kind Of Miracle",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/13_Some_Kind_Of_Miracle_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Miracle In The Bazaar",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/14_Miracle_In_The_Bazaar_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Waiting For A Miracle",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/15_Waiting_For_A_Miracle_Post_Malone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Miracle",
+      "artist": "illion",
+      "has_synced": false,
+      "path": "select/pl_01_Miracle_illion.txt"
+    }
+  ]
+}
